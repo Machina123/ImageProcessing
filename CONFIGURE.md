@@ -175,6 +175,8 @@ C:\Users\Machina\Documents\GitHub\ImageProcessing>
 ```
 oznacza to, że środowisko zostało wyłączone.
 
+**Uwaga (macOS):** może być wymagane uruchomienie komendy dezaktywującej dwukrotnie - pierwsze wywołanie przełączy środowisko na `base`, dopiero drugie całkowicie zdezaktywuje Anacondę.
+
 ---
 
 _Poradnik oraz linki są aktualne na dzień 10 października 2018._
