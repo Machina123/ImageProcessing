@@ -93,11 +93,12 @@ Po tej operacji prompt w naszej konsoli zmieni się na, przykładowo (w systemie
 (py36) C:\Users\Machina\Documents\GitHub\ImageProcessing>
 ```
 
-Instalację wszystkich paczek można załatwić jedną komendą:
+Instalację wszystkich paczek można załatwić dwoma komendami:
 ```
-conda install numpy matplotlib scikit-image py-opencv
+conda install numpy matplotlib scikit-image
+conda install --channel https://conda.anaconda.org/menpo opencv3
 ```
-Po wprowadzeniu i zatwierdzeniu tego polecenia, po chwili na ekranie może pojawić się:
+Po wprowadzeniu i zatwierdzeniu każdego z tych poleceń, po chwili na ekranie może pojawić się:
 ```
 Solving environment: done
 
