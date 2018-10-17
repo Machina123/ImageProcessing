@@ -1,0 +1,6 @@
+nowy notebook
+zdefiniowac funkcje liczaca histogram (ma zwracac tablice)
+wywolac funkcje na obrazie
+narysowac wykres
+sprawdzic czy liczy jak libka
+
