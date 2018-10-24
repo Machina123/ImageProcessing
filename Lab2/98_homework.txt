@@ -1,0 +1,6 @@
+napisać 2 funkcje: 
+    gamma - realizuje funkcję korekcji gamma, dwa parametry (obraz i wartość parametru)
+    binaryzacja dwuprogowa - parametry: obraz, dwa progi, czy inwersja
+
+sprawdzić czy działają jak libka
+okomentować 

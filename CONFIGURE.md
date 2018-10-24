@@ -25,7 +25,7 @@ Po pobraniu pliku instalatora, postępujemy zgodnie z instrukcją na ekranie. Mo
     ```     
     Add Anaconda to my PATH environment variable
     ```
-    Co prawda twórcy Anacondy tego nie rekomendują, ale znacznie ułatwi to pracę, polecenia Anacondy będą wtedy dostępne w całym systemie.
+    Co prawda twórcy Anacondy tego nie rekomendują, ale znacznie ułatwi to pracę, polecenia Anacondy będą wtedy dostępne w całym systemie. W przeciwnym razie, będzie trzeba korzystać z **Anaconda Prompt** jako konsoli.
 
 * Instalację VS Code można pominąć.
 
@@ -179,4 +179,4 @@ oznacza to, że środowisko zostało wyłączone.
 
 ---
 
-_Poradnik oraz linki są aktualne na dzień 10 października 2018._
+_Poradnik oraz linki są aktualne na dzień 24 października 2018._
